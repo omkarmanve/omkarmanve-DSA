@@ -4,9 +4,8 @@ class Solution {
           if(n<=2)
         return n;
         
-        int a=1;
-        int b=1;
-        int c=0;
+        int a=1 ,b=1,c;
+    
 
       
 
