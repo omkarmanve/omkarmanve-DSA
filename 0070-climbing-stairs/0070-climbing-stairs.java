@@ -4,14 +4,14 @@ class Solution {
           if(n<=2)
         return n;
         
-        int a=1 ,b=1,c;
+        int a=1 ,b=2,c;
     
 
       
 
         
 
-        for(int i=2;i<=n;i++){
+        for(int i=3;i<=n;i++){
             c=a+b;
             a=b;
             b=c;
