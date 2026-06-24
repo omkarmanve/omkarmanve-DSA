@@ -5,6 +5,11 @@ class Solution {
         int b=1;
         int c=0;
 
+        if(n<=2)
+        return n;
+
+        
+
         for(int i=2;i<=n;i++){
             c=a+b;
             a=b;
