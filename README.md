@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
