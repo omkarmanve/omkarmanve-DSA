@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
