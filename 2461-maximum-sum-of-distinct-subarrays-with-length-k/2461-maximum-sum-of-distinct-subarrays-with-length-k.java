@@ -1,9 +1,8 @@
-import java.util.*;
-
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        HashSet<Integer> set = new HashSet<>();
+
         long sum = 0;
         long ans = 0;
 
@@ -11,31 +10,23 @@ class Solution {
 
         for (int right = 0; right < nums.length; right++) {
 
-            // Current element add
-            sum += nums[right];
-            map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
-
-            // Window size > k ho gayi
-            if (right - left + 1 > k) {
-
+            while (set.contains(nums[right])) {
+                set.remove(nums[left]);
                 sum -= nums[left];
-
-                map.put(nums[left], map.get(nums[left]) - 1);
-
-                if (map.get(nums[left]) == 0) {
-                    map.remove(nums[left]);
-                }
-
                 left++;
             }
 
-            // Window size == k
-            if (right - left + 1 == k) {
+            set.add(nums[right]);
+            sum += nums[right];
 
-                // Sab elements unique hain
-                if (map.size() == k) {
-                    ans = Math.max(ans, sum);
-                }
+            while (right - left + 1 > k) {
+                set.remove(nums[left]);
+                sum -= nums[left];
+                left++;
+            }
+
+            if (right - left + 1 == k) {
+                ans = Math.max(ans, sum);
             }
         }
 
