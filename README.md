@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
