@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0724-find-pivot-index](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
