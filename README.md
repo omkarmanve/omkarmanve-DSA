@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0205-isomorphic-strings) |
 | [1446-consecutive-characters](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
