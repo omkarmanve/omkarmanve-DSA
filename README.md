@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
