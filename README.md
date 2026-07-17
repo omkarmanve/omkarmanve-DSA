@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0178-rank-scores) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
