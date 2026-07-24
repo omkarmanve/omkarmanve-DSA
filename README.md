@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0324-wiggle-sort-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Union-Find
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0242-valid-anagram) |
 | [1446-consecutive-characters](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
