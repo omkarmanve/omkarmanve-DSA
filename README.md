@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0324-wiggle-sort-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Union-Find
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0242-valid-anagram) |
 | [1446-consecutive-characters](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
