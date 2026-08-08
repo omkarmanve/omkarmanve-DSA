@@ -1,5 +1,13 @@
 # https-github.com-omkarmanve-DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+A collection of my LeetCode solutions to prepare for coding interviews.
+
+## 👨‍💻 Connect With Me
+
+- 💻 GitHub: [Omkar Manve](https://github.com/omkarmanve)
+- 🔗 LinkedIn: [Omkar Manve](https://www.linkedin.com/in/omkar-manve/)
+- 🧩 LeetCode: [My LeetCode Profile](https://leetcode.com/u/omkarmanve/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
