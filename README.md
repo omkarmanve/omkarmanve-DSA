@@ -173,4 +173,12 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
