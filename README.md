@@ -63,6 +63,7 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -177,11 +178,13 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0206-reverse-linked-list) |
 ## Stack
