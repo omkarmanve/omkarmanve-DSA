@@ -38,6 +38,7 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
