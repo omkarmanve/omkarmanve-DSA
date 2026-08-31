@@ -183,6 +183,7 @@ A collection of my LeetCode solutions to prepare for coding interviews.
 | [0002-add-two-numbers](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/omkarmanve/https-github.com-omkarmanve-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
